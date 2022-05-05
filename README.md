@@ -1,6 +1,8 @@
 # Battleship_WIP_V3
 A C# console based game of Battleship. This is an improved version of the V2, and it is a Work In Progress.
 
+![example](Reference/example.png)
+
 ## Prerequisites
 Before you can run this program, ensure that you have the following software installed and functional:
 * One of the following operating systems: Windows 7, 8, 8.1, or 10.
